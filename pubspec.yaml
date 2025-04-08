@@ -17,3 +17,17 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/vector1.png
+    - assets/vector2.png
+    - assets/vector3.png
+    - assets/vector4.png
+    - assets/vector5.png
+    - assets/vector6.png
+    - assets/vector7.png
+    - assets/vector8.png
+    - assets/im1.png
+  fonts:
+    - family: CustomFont
+      fonts:
+        - asset: assets/fonts/AbhayaLibre-Regular.ttf
