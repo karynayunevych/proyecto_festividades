@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140641463376",
+    "project_id": "proyecto-festividades",
+    "storage_bucket": "proyecto-festividades.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140641463376:android:018b9b2ed2e6f27f6cf555",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_festivdades"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQoCMHXG_Yyd4d0QUXp8YXsV2zHx3T5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

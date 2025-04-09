@@ -3,6 +3,8 @@ import 'package:proyecto_festivdades/pantallas_principales/pantalla_inicio.dart'
 import 'package:proyecto_festivdades/pantallas_principales/pantalla_registro.dart';
 
 class PantallaBienvenida extends StatelessWidget {
+  const PantallaBienvenida({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
